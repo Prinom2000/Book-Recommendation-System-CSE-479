@@ -4,5 +4,4 @@ I make a book recommendation system during my web development course in my Unive
 
 
 Data set link:
-
 https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
